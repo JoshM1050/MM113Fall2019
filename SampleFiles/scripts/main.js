@@ -41,7 +41,6 @@ const appendElements = () => {
   //points to an image of your choice,symbolizing something about the course.
   //id="tweet1"
   // YOUR CODE BELOW THIS LINE
-
 const newLink = document.createElement ('a');
 newLink.href = 'http://www.ohlone.edu';
 newLink.appendChild(document.createTextNode('Intro to JavaScript'));
